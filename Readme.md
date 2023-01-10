@@ -6,5 +6,3 @@ Os comentários são um pouco extensos para explicar em detalhes cada linha escr
 A pokedex pode ser acessada apenas abrindo o html, já que é um projeto pequeno e está em apenas 1 arquivo, mas também está hospedada no GitHubPages.
 
 [Link da Pokedex](https://cingetorixdallagassa.github.io/purejs-pokedex/)
-
- [Sandwich](https://github.com/skydoves/Sandwich): Construct a lightweight and modern response interface to handle network payload for Android.
