@@ -313,8 +313,7 @@ const pokeUrl = await fetch(mainPokeData.url);
 const jsonUrl = await pokeUrl.json();
 //*a variável pokeCard precisa ser declarada dentro do loop forEach,e no início dela.
 const pokeCard = document.createElement('div');
-pokeCard.classList.add('pokeCard');
-pokemonGrid.appendChild(pokeCard);    
+pokeCard.classList.add('pokeCard'); 
 //*agora podemos inserir e renderizar os nomes de cada pokemon dentro do elemento 'p';
 const pokeName = document.createElement('p');
 //*mainPokeData possui acesso aos nomes dos pokemons que estão dentro do objeto results
